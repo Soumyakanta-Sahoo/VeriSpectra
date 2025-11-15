@@ -62,7 +62,7 @@ MIT License
 ## Citation
 ```
 @software{VeriSpectra2025,
-  author = {Sahoo, Soumyakanta and ChatGPT},
+  author = {Anshika Singh, Soumyakanta Sahoo, Tiya},
   title  = {VeriSpectra: Hybrid Single-Image DeepFake Detection Framework},
   year   = {2025},
   url    = {https://github.com/Soumyakanta-Sahoo/VeriSpectra}

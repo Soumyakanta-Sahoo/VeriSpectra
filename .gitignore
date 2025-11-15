@@ -1,0 +1,25 @@
+# Ignore dataset  
+data/
+
+# Sample_img for eval model
+Sample_img
+
+# Ignore cache directories
+cache/
+cache_v4/
+cache_v41/
+cache_v42/
+results/
+
+# Ignore virtual environment
+venv/
+
+# Ignore temporary / generated files
+__pycache__/
+*.log
+
+# Allow LFS tracked files only
+!*.npz
+!*.pkl
+!*.pt
+!*.pth

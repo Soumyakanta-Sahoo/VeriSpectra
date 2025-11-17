@@ -1,4 +1,4 @@
-# VeriSpectra: Universal Single-Image DeepFake Detection
+# VeriSpectra: Single-Image Synthetic Face Detection via Hierarchical Anomaly Modeling
 
 VeriSpectra is a forward-focused research framework for **single-image deepfake detection**, designed around a hybrid multi-domain feature pipeline and a lightweight hierarchical Gaussian Mixture Model (GMM).
 
